@@ -1,0 +1,6 @@
+Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
+Inserite nella vostra repo un semplice file di testo in cui elencate le colonne della vostra tabella complete di tipo di dato, attributi ed eventuale indice!
+Buon lavoro e buon weekend!
+
+CARS
+
