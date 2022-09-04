@@ -4,3 +4,13 @@ Buon lavoro e buon weekend!
 
 CARS
 
+id - BIGINT - UNIQUE, NOT NULL, AUTO INCREMENT
+marca - VARCHAR(50) -  NOT NULL
+modello - VARCHAR(100) - NOT NULL
+anno - YEAR - NOT NULL
+porte - SMALLINT - NULL
+colore - VARCHAR(50) - NOT NULL
+km - MEDIUMINT - NOT NULL
+motore(iniezione) - VARCHAR (100) - Default: A
+cilindrata - SMALLINT - NULL
+propietari - SMALLINT - NULL
